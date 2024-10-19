@@ -1,0 +1,45 @@
+﻿@model Repository_Pattern.Models.Students
+
+@{
+    ViewData["Title"] = "Student Details";
+}
+
+<div class="container">
+    <h1>Student Details</h1>
+    <div class="card" style="width: 50%; margin: auto;">
+        <div class="card-header">
+            <h3>@Model.Name</h3>
+        </div>
+        <div class="card-body">
+            <p><strong>Roll Number:</strong> @Model.RollNo</p>
+            <p><strong>Gender:</strong> @Model.Gender</p>
+            <p><strong>Class:</strong> @Model.Standerd</p>
+        </div>
+        <div class="card-footer text-center">
+            <a href="@Url.Action("Index", "Home")" class="btn btn-primary">Back to Students List</a>
+        </div>
+    </div>
+</div>
+
+<style>
+    .card {
+        border: 1px solid #007BFF;
+        border-radius: 8px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        margin-top: 20px;
+    }
+
+    .card-header {
+        background-color: #007BFF;
+        color: white;
+        text-align: center;
+    }
+
+    .card-body {
+        font-size: 1.1em;
+    }
+
+    .btn {
+        margin-top: 10px;
+    }
+</style>

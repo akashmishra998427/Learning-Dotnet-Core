@@ -1,0 +1,31 @@
+D:\LeaningDotnet Core\Repository Pattern\Repository Pattern\bin\Debug\net8.0\appsettings.Development.json
+D:\LeaningDotnet Core\Repository Pattern\Repository Pattern\bin\Debug\net8.0\appsettings.json
+D:\LeaningDotnet Core\Repository Pattern\Repository Pattern\bin\Debug\net8.0\Repository Pattern.staticwebassets.runtime.json
+D:\LeaningDotnet Core\Repository Pattern\Repository Pattern\bin\Debug\net8.0\Repository Pattern.exe
+D:\LeaningDotnet Core\Repository Pattern\Repository Pattern\bin\Debug\net8.0\Repository Pattern.deps.json
+D:\LeaningDotnet Core\Repository Pattern\Repository Pattern\bin\Debug\net8.0\Repository Pattern.runtimeconfig.json
+D:\LeaningDotnet Core\Repository Pattern\Repository Pattern\bin\Debug\net8.0\Repository Pattern.dll
+D:\LeaningDotnet Core\Repository Pattern\Repository Pattern\bin\Debug\net8.0\Repository Pattern.pdb
+D:\LeaningDotnet Core\Repository Pattern\Repository Pattern\obj\Debug\net8.0\Repository Pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeaningDotnet Core\Repository Pattern\Repository Pattern\obj\Debug\net8.0\Repository Pattern.AssemblyInfoInputs.cache
+D:\LeaningDotnet Core\Repository Pattern\Repository Pattern\obj\Debug\net8.0\Repository Pattern.AssemblyInfo.cs
+D:\LeaningDotnet Core\Repository Pattern\Repository Pattern\obj\Debug\net8.0\Repository Pattern.csproj.CoreCompileInputs.cache
+D:\LeaningDotnet Core\Repository Pattern\Repository Pattern\obj\Debug\net8.0\Repository Pattern.MvcApplicationPartsAssemblyInfo.cache
+D:\LeaningDotnet Core\Repository Pattern\Repository Pattern\obj\Debug\net8.0\Repository Pattern.RazorAssemblyInfo.cache
+D:\LeaningDotnet Core\Repository Pattern\Repository Pattern\obj\Debug\net8.0\Repository Pattern.RazorAssemblyInfo.cs
+D:\LeaningDotnet Core\Repository Pattern\Repository Pattern\obj\Debug\net8.0\Repository Pattern.sourcelink.json
+D:\LeaningDotnet Core\Repository Pattern\Repository Pattern\obj\Debug\net8.0\staticwebassets.build.json
+D:\LeaningDotnet Core\Repository Pattern\Repository Pattern\obj\Debug\net8.0\staticwebassets.development.json
+D:\LeaningDotnet Core\Repository Pattern\Repository Pattern\obj\Debug\net8.0\staticwebassets\msbuild.Repository Pattern.Microsoft.AspNetCore.StaticWebAssets.props
+D:\LeaningDotnet Core\Repository Pattern\Repository Pattern\obj\Debug\net8.0\staticwebassets\msbuild.build.Repository Pattern.props
+D:\LeaningDotnet Core\Repository Pattern\Repository Pattern\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Repository Pattern.props
+D:\LeaningDotnet Core\Repository Pattern\Repository Pattern\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Repository Pattern.props
+D:\LeaningDotnet Core\Repository Pattern\Repository Pattern\obj\Debug\net8.0\staticwebassets.pack.json
+D:\LeaningDotnet Core\Repository Pattern\Repository Pattern\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\LeaningDotnet Core\Repository Pattern\Repository Pattern\obj\Debug\net8.0\scopedcss\bundle\Repository Pattern.styles.css
+D:\LeaningDotnet Core\Repository Pattern\Repository Pattern\obj\Debug\net8.0\scopedcss\projectbundle\Repository Pattern.bundle.scp.css
+D:\LeaningDotnet Core\Repository Pattern\Repository Pattern\obj\Debug\net8.0\Repository Pattern.dll
+D:\LeaningDotnet Core\Repository Pattern\Repository Pattern\obj\Debug\net8.0\refint\Repository Pattern.dll
+D:\LeaningDotnet Core\Repository Pattern\Repository Pattern\obj\Debug\net8.0\Repository Pattern.pdb
+D:\LeaningDotnet Core\Repository Pattern\Repository Pattern\obj\Debug\net8.0\Repository Pattern.genruntimeconfig.cache
+D:\LeaningDotnet Core\Repository Pattern\Repository Pattern\obj\Debug\net8.0\ref\Repository Pattern.dll
