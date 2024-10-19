@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Privacy Policy";
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>Use this page to detail your site's privacy policy.</p>
+
+@if (TempData["crickter"] != null)
+{
+    var cricketers = TempData["crickter"] as List<string>;
+
+    if (cricketers != null)
+    {
+        <h2>Cricketers:</h2>
+        <ul>
+            @foreach (var item in cricketers)
+            {
+                <li>@item</li>
+            }
+        </ul>
+    }
+    else
+    {
+        <p>No cricketer data found in TempData.</p>
+    }
+}
+else
+{
+    <p>TempData["crickter"] is null.</p>
+}

@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<div>
+
+    <p>this is View Data @ViewData["data1"]</p>
+    <br />
+    <br />
+    <p>this is View Bag @ViewBag.data2</p>
+    <br />
+    <br />
+    <p>this is Temp Data @TempData["data3"]</p>
+
+    <br />
+    <br />
+    @{
+        if (TempData["crickter"]!=null)
+        {
+            foreach (var name in (List<string>)TempData["crickter"])
+            {
+                <h2>my favriout Crickter is : @name</h2>
+            }
+        }
+    }
+
+</div>

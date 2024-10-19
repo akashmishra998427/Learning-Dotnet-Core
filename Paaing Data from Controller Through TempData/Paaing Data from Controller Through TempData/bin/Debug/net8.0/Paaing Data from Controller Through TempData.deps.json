@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Paaing Data from Controller Through TempData/1.0.0": {
+        "runtime": {
+          "Paaing Data from Controller Through TempData.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Paaing Data from Controller Through TempData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

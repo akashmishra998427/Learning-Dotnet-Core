@@ -1,0 +1,112 @@
+﻿@{
+    ViewData["Title"] = "Home Page - E-Commerce";
+    Layout = "~/Views/Shared/_Layout.cshtml"; // This references your layout page
+}
+
+<!-- Hero Section -->
+<section class="hero-section" style="background-image: url('~/images/hero-banner.jpg'); height: 500px; background-size: cover; background-position: center;">
+    <div class="hero-overlay text-center text-white d-flex align-items-center justify-content-center" style="height: 100%; background: rgba(0, 0, 0, 0.5);">
+        <div>
+            <h1>Discover the Latest in Fashion & Electronics</h1>
+            <p>Shop the best deals today!</p>
+            <a href="/shop" class="btn btn-primary btn-lg">Shop Now</a>
+        </div>
+    </div>
+</section>
+
+<!-- Featured Categories -->
+<section class="featured-categories py-5">
+    <div class="container text-center">
+        <h2 class="mb-4">Featured Categories</h2>
+        <div class="row">
+            <div class="col-md-3">
+                <div class="card">
+                    <img class="card-img-top" src="~/images/electronics.jpg" alt="Electronics">
+                    <div class="card-body">
+                        <h5 class="card-title">Electronics</h5>
+                        <a href="/categories/electronics" class="btn btn-outline-primary">Shop Now</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="card">
+                    <img class="card-img-top" src="~/images/clothing.jpg" alt="Clothing">
+                    <div class="card-body">
+                        <h5 class="card-title">Clothing</h5>
+                        <a href="/categories/clothing" class="btn btn-outline-primary">Shop Now</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="card">
+                    <img class="card-img-top" src="~/images/home-decor.jpg" alt="Home Decor">
+                    <div class="card-body">
+                        <h5 class="card-title">Home Decor</h5>
+                        <a href="/categories/home-decor" class="btn btn-outline-primary">Shop Now</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="card">
+                    <img class="card-img-top" src="~/images/accessories.jpg" alt="Accessories">
+                    <div class="card-body">
+                        <h5 class="card-title">Accessories</h5>
+                        <a href="/categories/accessories" class="btn btn-outline-primary">Shop Now</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Popular Products -->
+<section class="popular-products py-5 bg-light">
+    <div class="container text-center">
+        <h2 class="mb-4">Popular Products</h2>
+        <div class="row">
+            <div class="col-md-4">
+                <div class="card">
+                    <img class="card-img-top" src="~/images/product1.jpg" alt="Product 1">
+                    <div class="card-body">
+                        <h5 class="card-title">Product 1</h5>
+                        <p class="card-text">$99.99</p>
+                        <a href="/products/1" class="btn btn-primary">Add to Cart</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card">
+                    <img class="card-img-top" src="~/images/product2.jpg" alt="Product 2">
+                    <div class="card-body">
+                        <h5 class="card-title">Product 2</h5>
+                        <p class="card-text">$149.99</p>
+                        <a href="/products/2" class="btn btn-primary">Add to Cart</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card">
+                    <img class="card-img-top" src="~/images/product3.jpg" alt="Product 3">
+                    <div class="card-body">
+                        <h5 class="card-title">Product 3</h5>
+                        <p class="card-text">$79.99</p>
+                        <a href="/products/3" class="btn btn-primary">Add to Cart</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Promotional Section -->
+<section class="promo-section py-5">
+    <div class="container text-center">
+        <h2>Special Offer - 50% Off on Select Items</h2>
+        <p>Hurry up! The offer ends in:</p>
+        <div class="countdown-timer mb-4">
+            <!-- You can implement a countdown here using JavaScript -->
+            <h3>00 Days 12 Hours 30 Minutes</h3>
+        </div>
+        <a href="/shop" class="btn btn-lg btn-warning">Shop Now</a>
+    </div>
+</section>

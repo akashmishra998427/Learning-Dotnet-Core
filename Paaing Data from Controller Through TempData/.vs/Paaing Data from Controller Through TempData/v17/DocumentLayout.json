@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\core practics\\Paaing Data from Controller Through TempData\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C25FAF5F-8FDA-4EBB-BB6E-988282B264E1}|Paaing Data from Controller Through TempData\\Paaing Data from Controller Through TempData.csproj|d:\\core practics\\paaing data from controller through tempdata\\paaing data from controller through tempdata\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C25FAF5F-8FDA-4EBB-BB6E-988282B264E1}|Paaing Data from Controller Through TempData\\Paaing Data from Controller Through TempData.csproj|solutionrelative:paaing data from controller through tempdata\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25FAF5F-8FDA-4EBB-BB6E-988282B264E1}|Paaing Data from Controller Through TempData\\Paaing Data from Controller Through TempData.csproj|d:\\core practics\\paaing data from controller through tempdata\\paaing data from controller through tempdata\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C25FAF5F-8FDA-4EBB-BB6E-988282B264E1}|Paaing Data from Controller Through TempData\\Paaing Data from Controller Through TempData.csproj|solutionrelative:paaing data from controller through tempdata\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25FAF5F-8FDA-4EBB-BB6E-988282B264E1}|Paaing Data from Controller Through TempData\\Paaing Data from Controller Through TempData.csproj|d:\\core practics\\paaing data from controller through tempdata\\paaing data from controller through tempdata\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C25FAF5F-8FDA-4EBB-BB6E-988282B264E1}|Paaing Data from Controller Through TempData\\Paaing Data from Controller Through TempData.csproj|solutionrelative:paaing data from controller through tempdata\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25FAF5F-8FDA-4EBB-BB6E-988282B264E1}|Paaing Data from Controller Through TempData\\Paaing Data from Controller Through TempData.csproj|d:\\core practics\\paaing data from controller through tempdata\\paaing data from controller through tempdata\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C25FAF5F-8FDA-4EBB-BB6E-988282B264E1}|Paaing Data from Controller Through TempData\\Paaing Data from Controller Through TempData.csproj|solutionrelative:paaing data from controller through tempdata\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\core practics\\Paaing Data from Controller Through TempData\\Paaing Data from Controller Through TempData\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Paaing Data from Controller Through TempData\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\core practics\\Paaing Data from Controller Through TempData\\Paaing Data from Controller Through TempData\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Paaing Data from Controller Through TempData\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T18:08:34.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\core practics\\Paaing Data from Controller Through TempData\\Paaing Data from Controller Through TempData\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Paaing Data from Controller Through TempData\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\core practics\\Paaing Data from Controller Through TempData\\Paaing Data from Controller Through TempData\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Paaing Data from Controller Through TempData\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T16:55:29.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\core practics\\Paaing Data from Controller Through TempData\\Paaing Data from Controller Through TempData\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Paaing Data from Controller Through TempData\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\core practics\\Paaing Data from Controller Through TempData\\Paaing Data from Controller Through TempData\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Paaing Data from Controller Through TempData\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwB8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T16:51:11.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\core practics\\Paaing Data from Controller Through TempData\\Paaing Data from Controller Through TempData\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Paaing Data from Controller Through TempData\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\core practics\\Paaing Data from Controller Through TempData\\Paaing Data from Controller Through TempData\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Paaing Data from Controller Through TempData\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T16:48:55.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

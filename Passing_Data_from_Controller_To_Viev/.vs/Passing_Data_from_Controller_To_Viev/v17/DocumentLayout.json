@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\core practics\\Passing_Data_from_Controller_To_Viev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8922106-5E80-4179-88DC-A86099DA54F5}|Passing_Data_from_Controller_To_Viev\\Passing_Data_from_Controller_To_Viev.csproj|d:\\core practics\\passing_data_from_controller_to_viev\\passing_data_from_controller_to_viev\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8922106-5E80-4179-88DC-A86099DA54F5}|Passing_Data_from_Controller_To_Viev\\Passing_Data_from_Controller_To_Viev.csproj|solutionrelative:passing_data_from_controller_to_viev\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8922106-5E80-4179-88DC-A86099DA54F5}|Passing_Data_from_Controller_To_Viev\\Passing_Data_from_Controller_To_Viev.csproj|d:\\core practics\\passing_data_from_controller_to_viev\\passing_data_from_controller_to_viev\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8922106-5E80-4179-88DC-A86099DA54F5}|Passing_Data_from_Controller_To_Viev\\Passing_Data_from_Controller_To_Viev.csproj|solutionrelative:passing_data_from_controller_to_viev\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\core practics\\Passing_Data_from_Controller_To_Viev\\Passing_Data_from_Controller_To_Viev\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Passing_Data_from_Controller_To_Viev\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\core practics\\Passing_Data_from_Controller_To_Viev\\Passing_Data_from_Controller_To_Viev\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Passing_Data_from_Controller_To_Viev\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAgwCUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T01:46:29.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\core practics\\Passing_Data_from_Controller_To_Viev\\Passing_Data_from_Controller_To_Viev\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Passing_Data_from_Controller_To_Viev\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\core practics\\Passing_Data_from_Controller_To_Viev\\Passing_Data_from_Controller_To_Viev\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Passing_Data_from_Controller_To_Viev\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwBoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T01:43:48.636Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

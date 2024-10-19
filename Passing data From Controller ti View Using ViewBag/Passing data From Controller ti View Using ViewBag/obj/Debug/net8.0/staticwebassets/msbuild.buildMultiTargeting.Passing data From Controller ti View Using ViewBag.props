@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Passing data From Controller ti View Using ViewBag.props" />
+</Project>

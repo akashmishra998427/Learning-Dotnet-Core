@@ -1,0 +1,8 @@
+D:\core practics\VievStart_In_Core\obj\Debug\net8.0\VievStart_In_Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\core practics\VievStart_In_Core\obj\Debug\net8.0\VievStart_In_Core.AssemblyInfoInputs.cache
+D:\core practics\VievStart_In_Core\obj\Debug\net8.0\VievStart_In_Core.AssemblyInfo.cs
+D:\core practics\VievStart_In_Core\obj\Debug\net8.0\VievStart_In_Core.csproj.CoreCompileInputs.cache
+D:\core practics\VievStart_In_Core\obj\Debug\net8.0\VievStart_In_Core.MvcApplicationPartsAssemblyInfo.cache
+D:\core practics\VievStart_In_Core\obj\Debug\net8.0\VievStart_In_Core.RazorAssemblyInfo.cache
+D:\core practics\VievStart_In_Core\obj\Debug\net8.0\VievStart_In_Core.RazorAssemblyInfo.cs
+D:\core practics\VievStart_In_Core\obj\Debug\net8.0\VievStart_In_Core.sourcelink.json

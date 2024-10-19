@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\core practics\\Passing data From Controller ti View Using ViewBag\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F950A90-AE4E-47B7-9736-EC41BB88DEAD}|Passing data From Controller ti View Using ViewBag\\Passing data From Controller ti View Using ViewBag.csproj|d:\\core practics\\passing data from controller ti view using viewbag\\passing data from controller ti view using viewbag\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F950A90-AE4E-47B7-9736-EC41BB88DEAD}|Passing data From Controller ti View Using ViewBag\\Passing data From Controller ti View Using ViewBag.csproj|solutionrelative:passing data from controller ti view using viewbag\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F950A90-AE4E-47B7-9736-EC41BB88DEAD}|Passing data From Controller ti View Using ViewBag\\Passing data From Controller ti View Using ViewBag.csproj|d:\\core practics\\passing data from controller ti view using viewbag\\passing data from controller ti view using viewbag\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F950A90-AE4E-47B7-9736-EC41BB88DEAD}|Passing data From Controller ti View Using ViewBag\\Passing data From Controller ti View Using ViewBag.csproj|solutionrelative:passing data from controller ti view using viewbag\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\core practics\\Passing data From Controller ti View Using ViewBag\\Passing data From Controller ti View Using ViewBag\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Passing data From Controller ti View Using ViewBag\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\core practics\\Passing data From Controller ti View Using ViewBag\\Passing data From Controller ti View Using ViewBag\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Passing data From Controller ti View Using ViewBag\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T02:29:18.185Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\core practics\\Passing data From Controller ti View Using ViewBag\\Passing data From Controller ti View Using ViewBag\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Passing data From Controller ti View Using ViewBag\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\core practics\\Passing data From Controller ti View Using ViewBag\\Passing data From Controller ti View Using ViewBag\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Passing data From Controller ti View Using ViewBag\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAxwCYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T02:28:29.6Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

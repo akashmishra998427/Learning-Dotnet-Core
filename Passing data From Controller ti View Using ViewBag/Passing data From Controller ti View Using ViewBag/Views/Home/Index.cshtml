@@ -1,0 +1,43 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+<h1>@ViewBag.Adarsh</h1>
+
+<h1>Displaying the data from controller using the ViewBag</h1>
+
+<h3>MY Name is: @ViewBag.Name</h3>
+<br />
+<br />
+<h4>My Age :@ViewBag.Age</h4>
+<br />
+<br />
+<h4>date :@ViewBag.Date</h4>
+
+<br />
+<br />
+@{
+    if(ViewBag.Array!=null){
+    foreach (var item in ViewBag.Array)
+    {
+        <h2>My Friends are:@item</h2>
+        
+    }
+    }
+
+}
+
+<br />
+<br />
+@{
+    if(ViewBag!=null){
+    foreach (var lang in ViewBag.Languages)
+    {
+        <h3>Programming Languages They Know :@lang</h3>
+    }
+    }
+}

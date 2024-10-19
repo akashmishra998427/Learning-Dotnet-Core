@@ -1,0 +1,31 @@
+D:\core practics\Paaing Data from Controller Through TempData\Paaing Data from Controller Through TempData\bin\Debug\net8.0\appsettings.Development.json
+D:\core practics\Paaing Data from Controller Through TempData\Paaing Data from Controller Through TempData\bin\Debug\net8.0\appsettings.json
+D:\core practics\Paaing Data from Controller Through TempData\Paaing Data from Controller Through TempData\bin\Debug\net8.0\Paaing Data from Controller Through TempData.staticwebassets.runtime.json
+D:\core practics\Paaing Data from Controller Through TempData\Paaing Data from Controller Through TempData\bin\Debug\net8.0\Paaing Data from Controller Through TempData.exe
+D:\core practics\Paaing Data from Controller Through TempData\Paaing Data from Controller Through TempData\bin\Debug\net8.0\Paaing Data from Controller Through TempData.deps.json
+D:\core practics\Paaing Data from Controller Through TempData\Paaing Data from Controller Through TempData\bin\Debug\net8.0\Paaing Data from Controller Through TempData.runtimeconfig.json
+D:\core practics\Paaing Data from Controller Through TempData\Paaing Data from Controller Through TempData\bin\Debug\net8.0\Paaing Data from Controller Through TempData.dll
+D:\core practics\Paaing Data from Controller Through TempData\Paaing Data from Controller Through TempData\bin\Debug\net8.0\Paaing Data from Controller Through TempData.pdb
+D:\core practics\Paaing Data from Controller Through TempData\Paaing Data from Controller Through TempData\obj\Debug\net8.0\Paaing Data from Controller Through TempData.GeneratedMSBuildEditorConfig.editorconfig
+D:\core practics\Paaing Data from Controller Through TempData\Paaing Data from Controller Through TempData\obj\Debug\net8.0\Paaing Data from Controller Through TempData.AssemblyInfoInputs.cache
+D:\core practics\Paaing Data from Controller Through TempData\Paaing Data from Controller Through TempData\obj\Debug\net8.0\Paaing Data from Controller Through TempData.AssemblyInfo.cs
+D:\core practics\Paaing Data from Controller Through TempData\Paaing Data from Controller Through TempData\obj\Debug\net8.0\Paaing Data from Controller Through TempData.csproj.CoreCompileInputs.cache
+D:\core practics\Paaing Data from Controller Through TempData\Paaing Data from Controller Through TempData\obj\Debug\net8.0\Paaing Data from Controller Through TempData.MvcApplicationPartsAssemblyInfo.cache
+D:\core practics\Paaing Data from Controller Through TempData\Paaing Data from Controller Through TempData\obj\Debug\net8.0\Paaing Data from Controller Through TempData.RazorAssemblyInfo.cache
+D:\core practics\Paaing Data from Controller Through TempData\Paaing Data from Controller Through TempData\obj\Debug\net8.0\Paaing Data from Controller Through TempData.RazorAssemblyInfo.cs
+D:\core practics\Paaing Data from Controller Through TempData\Paaing Data from Controller Through TempData\obj\Debug\net8.0\Paaing Data from Controller Through TempData.sourcelink.json
+D:\core practics\Paaing Data from Controller Through TempData\Paaing Data from Controller Through TempData\obj\Debug\net8.0\staticwebassets.build.json
+D:\core practics\Paaing Data from Controller Through TempData\Paaing Data from Controller Through TempData\obj\Debug\net8.0\staticwebassets.development.json
+D:\core practics\Paaing Data from Controller Through TempData\Paaing Data from Controller Through TempData\obj\Debug\net8.0\staticwebassets\msbuild.Paaing Data from Controller Through TempData.Microsoft.AspNetCore.StaticWebAssets.props
+D:\core practics\Paaing Data from Controller Through TempData\Paaing Data from Controller Through TempData\obj\Debug\net8.0\staticwebassets\msbuild.build.Paaing Data from Controller Through TempData.props
+D:\core practics\Paaing Data from Controller Through TempData\Paaing Data from Controller Through TempData\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Paaing Data from Controller Through TempData.props
+D:\core practics\Paaing Data from Controller Through TempData\Paaing Data from Controller Through TempData\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Paaing Data from Controller Through TempData.props
+D:\core practics\Paaing Data from Controller Through TempData\Paaing Data from Controller Through TempData\obj\Debug\net8.0\staticwebassets.pack.json
+D:\core practics\Paaing Data from Controller Through TempData\Paaing Data from Controller Through TempData\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\core practics\Paaing Data from Controller Through TempData\Paaing Data from Controller Through TempData\obj\Debug\net8.0\scopedcss\bundle\Paaing Data from Controller Through TempData.styles.css
+D:\core practics\Paaing Data from Controller Through TempData\Paaing Data from Controller Through TempData\obj\Debug\net8.0\scopedcss\projectbundle\Paaing Data from Controller Through TempData.bundle.scp.css
+D:\core practics\Paaing Data from Controller Through TempData\Paaing Data from Controller Through TempData\obj\Debug\net8.0\Paaing Data from Controller Through TempData.dll
+D:\core practics\Paaing Data from Controller Through TempData\Paaing Data from Controller Through TempData\obj\Debug\net8.0\refint\Paaing Data from Controller Through TempData.dll
+D:\core practics\Paaing Data from Controller Through TempData\Paaing Data from Controller Through TempData\obj\Debug\net8.0\Paaing Data from Controller Through TempData.pdb
+D:\core practics\Paaing Data from Controller Through TempData\Paaing Data from Controller Through TempData\obj\Debug\net8.0\Paaing Data from Controller Through TempData.genruntimeconfig.cache
+D:\core practics\Paaing Data from Controller Through TempData\Paaing Data from Controller Through TempData\obj\Debug\net8.0\ref\Paaing Data from Controller Through TempData.dll

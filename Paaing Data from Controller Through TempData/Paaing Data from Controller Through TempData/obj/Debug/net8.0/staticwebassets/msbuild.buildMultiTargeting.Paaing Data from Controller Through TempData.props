@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Paaing Data from Controller Through TempData.props" />
+</Project>

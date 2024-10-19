@@ -1,0 +1,31 @@
+D:\core practics\Passing data From Controller ti View Using ViewBag\Passing data From Controller ti View Using ViewBag\bin\Debug\net8.0\appsettings.Development.json
+D:\core practics\Passing data From Controller ti View Using ViewBag\Passing data From Controller ti View Using ViewBag\bin\Debug\net8.0\appsettings.json
+D:\core practics\Passing data From Controller ti View Using ViewBag\Passing data From Controller ti View Using ViewBag\bin\Debug\net8.0\Passing data From Controller ti View Using ViewBag.staticwebassets.runtime.json
+D:\core practics\Passing data From Controller ti View Using ViewBag\Passing data From Controller ti View Using ViewBag\bin\Debug\net8.0\Passing data From Controller ti View Using ViewBag.exe
+D:\core practics\Passing data From Controller ti View Using ViewBag\Passing data From Controller ti View Using ViewBag\bin\Debug\net8.0\Passing data From Controller ti View Using ViewBag.deps.json
+D:\core practics\Passing data From Controller ti View Using ViewBag\Passing data From Controller ti View Using ViewBag\bin\Debug\net8.0\Passing data From Controller ti View Using ViewBag.runtimeconfig.json
+D:\core practics\Passing data From Controller ti View Using ViewBag\Passing data From Controller ti View Using ViewBag\bin\Debug\net8.0\Passing data From Controller ti View Using ViewBag.dll
+D:\core practics\Passing data From Controller ti View Using ViewBag\Passing data From Controller ti View Using ViewBag\bin\Debug\net8.0\Passing data From Controller ti View Using ViewBag.pdb
+D:\core practics\Passing data From Controller ti View Using ViewBag\Passing data From Controller ti View Using ViewBag\obj\Debug\net8.0\Passing data From Controller ti View Using ViewBag.GeneratedMSBuildEditorConfig.editorconfig
+D:\core practics\Passing data From Controller ti View Using ViewBag\Passing data From Controller ti View Using ViewBag\obj\Debug\net8.0\Passing data From Controller ti View Using ViewBag.AssemblyInfoInputs.cache
+D:\core practics\Passing data From Controller ti View Using ViewBag\Passing data From Controller ti View Using ViewBag\obj\Debug\net8.0\Passing data From Controller ti View Using ViewBag.AssemblyInfo.cs
+D:\core practics\Passing data From Controller ti View Using ViewBag\Passing data From Controller ti View Using ViewBag\obj\Debug\net8.0\Passing data From Controller ti View Using ViewBag.csproj.CoreCompileInputs.cache
+D:\core practics\Passing data From Controller ti View Using ViewBag\Passing data From Controller ti View Using ViewBag\obj\Debug\net8.0\Passing data From Controller ti View Using ViewBag.MvcApplicationPartsAssemblyInfo.cache
+D:\core practics\Passing data From Controller ti View Using ViewBag\Passing data From Controller ti View Using ViewBag\obj\Debug\net8.0\Passing data From Controller ti View Using ViewBag.RazorAssemblyInfo.cache
+D:\core practics\Passing data From Controller ti View Using ViewBag\Passing data From Controller ti View Using ViewBag\obj\Debug\net8.0\Passing data From Controller ti View Using ViewBag.RazorAssemblyInfo.cs
+D:\core practics\Passing data From Controller ti View Using ViewBag\Passing data From Controller ti View Using ViewBag\obj\Debug\net8.0\Passing data From Controller ti View Using ViewBag.sourcelink.json
+D:\core practics\Passing data From Controller ti View Using ViewBag\Passing data From Controller ti View Using ViewBag\obj\Debug\net8.0\staticwebassets.build.json
+D:\core practics\Passing data From Controller ti View Using ViewBag\Passing data From Controller ti View Using ViewBag\obj\Debug\net8.0\staticwebassets.development.json
+D:\core practics\Passing data From Controller ti View Using ViewBag\Passing data From Controller ti View Using ViewBag\obj\Debug\net8.0\staticwebassets\msbuild.Passing data From Controller ti View Using ViewBag.Microsoft.AspNetCore.StaticWebAssets.props
+D:\core practics\Passing data From Controller ti View Using ViewBag\Passing data From Controller ti View Using ViewBag\obj\Debug\net8.0\staticwebassets\msbuild.build.Passing data From Controller ti View Using ViewBag.props
+D:\core practics\Passing data From Controller ti View Using ViewBag\Passing data From Controller ti View Using ViewBag\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Passing data From Controller ti View Using ViewBag.props
+D:\core practics\Passing data From Controller ti View Using ViewBag\Passing data From Controller ti View Using ViewBag\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Passing data From Controller ti View Using ViewBag.props
+D:\core practics\Passing data From Controller ti View Using ViewBag\Passing data From Controller ti View Using ViewBag\obj\Debug\net8.0\staticwebassets.pack.json
+D:\core practics\Passing data From Controller ti View Using ViewBag\Passing data From Controller ti View Using ViewBag\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\core practics\Passing data From Controller ti View Using ViewBag\Passing data From Controller ti View Using ViewBag\obj\Debug\net8.0\scopedcss\bundle\Passing data From Controller ti View Using ViewBag.styles.css
+D:\core practics\Passing data From Controller ti View Using ViewBag\Passing data From Controller ti View Using ViewBag\obj\Debug\net8.0\scopedcss\projectbundle\Passing data From Controller ti View Using ViewBag.bundle.scp.css
+D:\core practics\Passing data From Controller ti View Using ViewBag\Passing data From Controller ti View Using ViewBag\obj\Debug\net8.0\Passing data From Controller ti View Using ViewBag.dll
+D:\core practics\Passing data From Controller ti View Using ViewBag\Passing data From Controller ti View Using ViewBag\obj\Debug\net8.0\refint\Passing data From Controller ti View Using ViewBag.dll
+D:\core practics\Passing data From Controller ti View Using ViewBag\Passing data From Controller ti View Using ViewBag\obj\Debug\net8.0\Passing data From Controller ti View Using ViewBag.pdb
+D:\core practics\Passing data From Controller ti View Using ViewBag\Passing data From Controller ti View Using ViewBag\obj\Debug\net8.0\Passing data From Controller ti View Using ViewBag.genruntimeconfig.cache
+D:\core practics\Passing data From Controller ti View Using ViewBag\Passing data From Controller ti View Using ViewBag\obj\Debug\net8.0\ref\Passing data From Controller ti View Using ViewBag.dll

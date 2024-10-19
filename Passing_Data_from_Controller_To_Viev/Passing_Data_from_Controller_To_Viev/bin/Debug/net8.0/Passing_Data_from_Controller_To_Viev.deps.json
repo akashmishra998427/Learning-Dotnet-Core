@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Passing_Data_from_Controller_To_Viev/1.0.0": {
+        "runtime": {
+          "Passing_Data_from_Controller_To_Viev.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Passing_Data_from_Controller_To_Viev/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
