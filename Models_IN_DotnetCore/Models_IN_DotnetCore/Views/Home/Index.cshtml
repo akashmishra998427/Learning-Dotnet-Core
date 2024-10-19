@@ -1,8 +1,72 @@
-﻿@{
+@{
     ViewData["Title"] = "Home Page";
+    var student = ViewBag.student;
 }
+
+
+<!-- Styling the table for better user interaction -->
+<style>
+    table {
+        width: 80%;
+        margin: 20px auto;
+        border-collapse: collapse;
+        box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+        background-color: #f9f9f9;
+    }
+
+    th, td {
+        padding: 12px 15px;
+        text-align: left;
+        border-bottom: 1px solid #ddd;
+    }
+
+    th {
+        background-color: #007BFF;
+        color: white;
+        font-size: 1.1em;
+    }
+
+    tr:hover {
+        background-color: #f1f1f1;
+    }
+
+    tr:nth-child(even) {
+        background-color: #f2f2f2;
+    }
+
+    td {
+        color: #333;
+        font-size: 0.95em;
+    }
+
+    
+</style>
+
 
 <div class="text-center">
     <h1 class="display-4">Welcome</h1>
     <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>
+
+<table>
+
+    <tr>
+        <th>Roll Number</th>
+        <th>Name</th>
+        <th>Gender</th>
+        <th>Class</th>
+
+    </tr>
+
+    @{
+        foreach (var item in student)
+        {
+         <tr>
+                <td>@item.RollNo</td>
+                <td>@item.Name</td>
+                <td>@item.Gender</td>
+                <td>@item.Standerd</td>
+         </tr>
+        }
+    }
+</table>
