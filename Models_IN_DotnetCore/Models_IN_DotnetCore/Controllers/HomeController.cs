@@ -1,6 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
 using Models_IN_DotnetCore.Models;
 using System.Diagnostics;
+using System.Reflection;
+using System.Xml.Linq;
 
 namespace Models_IN_DotnetCore.Controllers
 {
@@ -15,6 +17,17 @@ namespace Models_IN_DotnetCore.Controllers
 
         public IActionResult Index()
         {
+            var Students = new List<Student>
+            {
+                 new Student { RollNo =1,Name="Akash Mishra",Gender ="Male",Standerd=12},
+                 new Student { RollNo =2,Name="Adarsh Upadhyay",Gender ="Male",Standerd=12},
+                 new Student { RollNo =3,Name="Akhilesh Baniya",Gender ="Male",Standerd=12},
+                 new Student { RollNo =4,Name="Adatiya Singh",Gender ="Male",Standerd=12},
+                 new Student { RollNo =5,Name="Ankit Mishra",Gender ="Male",Standerd=12},
+                 new Student { RollNo =6,Name="Anurag Verma",Gender ="Male",Standerd=12},
+            };
+
+            ViewBag.student = Students;
             return View();
         }
 
