@@ -1,0 +1,29 @@
+﻿@model IEnumerable<Strongly_Typed_Views.Models.Employee>
+
+@{
+    ViewData["Title"] = "Employee List";
+}
+
+<h1 class="text-primary">Employee List</h1>
+
+<table class="table table-bordered table-striped">
+    <thead class="thead-dark">
+        <tr>
+            <th>Employee ID</th>
+            <th>Employee Name</th>
+            <th>Designation</th>
+            <th>Salary</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var employee in Model) // Loop through the list of Employee objects
+        {
+            <tr>
+                <td>@employee.EmpID</td>
+                <td>@employee.EmpName</td>
+                <td>@employee.Designation</td>
+                <td>@employee.Salary.ToString("C")</td> <!-- Format salary as currency -->
+            </tr>
+        }
+    </tbody>
+</table>
