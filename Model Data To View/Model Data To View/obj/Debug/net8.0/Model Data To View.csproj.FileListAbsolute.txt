@@ -1,0 +1,31 @@
+D:\LeaningDotnet Core\Model Data To View\Model Data To View\bin\Debug\net8.0\appsettings.Development.json
+D:\LeaningDotnet Core\Model Data To View\Model Data To View\bin\Debug\net8.0\appsettings.json
+D:\LeaningDotnet Core\Model Data To View\Model Data To View\bin\Debug\net8.0\Model Data To View.staticwebassets.runtime.json
+D:\LeaningDotnet Core\Model Data To View\Model Data To View\bin\Debug\net8.0\Model Data To View.exe
+D:\LeaningDotnet Core\Model Data To View\Model Data To View\bin\Debug\net8.0\Model Data To View.deps.json
+D:\LeaningDotnet Core\Model Data To View\Model Data To View\bin\Debug\net8.0\Model Data To View.runtimeconfig.json
+D:\LeaningDotnet Core\Model Data To View\Model Data To View\bin\Debug\net8.0\Model Data To View.dll
+D:\LeaningDotnet Core\Model Data To View\Model Data To View\bin\Debug\net8.0\Model Data To View.pdb
+D:\LeaningDotnet Core\Model Data To View\Model Data To View\obj\Debug\net8.0\Model Data To View.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeaningDotnet Core\Model Data To View\Model Data To View\obj\Debug\net8.0\Model Data To View.AssemblyInfoInputs.cache
+D:\LeaningDotnet Core\Model Data To View\Model Data To View\obj\Debug\net8.0\Model Data To View.AssemblyInfo.cs
+D:\LeaningDotnet Core\Model Data To View\Model Data To View\obj\Debug\net8.0\Model Data To View.csproj.CoreCompileInputs.cache
+D:\LeaningDotnet Core\Model Data To View\Model Data To View\obj\Debug\net8.0\Model Data To View.MvcApplicationPartsAssemblyInfo.cache
+D:\LeaningDotnet Core\Model Data To View\Model Data To View\obj\Debug\net8.0\Model Data To View.RazorAssemblyInfo.cache
+D:\LeaningDotnet Core\Model Data To View\Model Data To View\obj\Debug\net8.0\Model Data To View.RazorAssemblyInfo.cs
+D:\LeaningDotnet Core\Model Data To View\Model Data To View\obj\Debug\net8.0\Model Data To View.sourcelink.json
+D:\LeaningDotnet Core\Model Data To View\Model Data To View\obj\Debug\net8.0\staticwebassets.build.json
+D:\LeaningDotnet Core\Model Data To View\Model Data To View\obj\Debug\net8.0\staticwebassets.development.json
+D:\LeaningDotnet Core\Model Data To View\Model Data To View\obj\Debug\net8.0\staticwebassets\msbuild.Model Data To View.Microsoft.AspNetCore.StaticWebAssets.props
+D:\LeaningDotnet Core\Model Data To View\Model Data To View\obj\Debug\net8.0\staticwebassets\msbuild.build.Model Data To View.props
+D:\LeaningDotnet Core\Model Data To View\Model Data To View\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Model Data To View.props
+D:\LeaningDotnet Core\Model Data To View\Model Data To View\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Model Data To View.props
+D:\LeaningDotnet Core\Model Data To View\Model Data To View\obj\Debug\net8.0\staticwebassets.pack.json
+D:\LeaningDotnet Core\Model Data To View\Model Data To View\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\LeaningDotnet Core\Model Data To View\Model Data To View\obj\Debug\net8.0\scopedcss\bundle\Model Data To View.styles.css
+D:\LeaningDotnet Core\Model Data To View\Model Data To View\obj\Debug\net8.0\scopedcss\projectbundle\Model Data To View.bundle.scp.css
+D:\LeaningDotnet Core\Model Data To View\Model Data To View\obj\Debug\net8.0\Model Data To View.dll
+D:\LeaningDotnet Core\Model Data To View\Model Data To View\obj\Debug\net8.0\refint\Model Data To View.dll
+D:\LeaningDotnet Core\Model Data To View\Model Data To View\obj\Debug\net8.0\Model Data To View.pdb
+D:\LeaningDotnet Core\Model Data To View\Model Data To View\obj\Debug\net8.0\Model Data To View.genruntimeconfig.cache
+D:\LeaningDotnet Core\Model Data To View\Model Data To View\obj\Debug\net8.0\ref\Model Data To View.dll
